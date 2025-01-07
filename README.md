@@ -13,4 +13,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![Estadísticas de GitHub]([https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical](https://github.com/dayana82006))
+![Estadísticas de GitHub](https://github.com/dayana82006)
