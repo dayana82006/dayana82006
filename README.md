@@ -27,4 +27,4 @@
 ### 🌟 Proyectos Destacados
 
 - 💘 [Campus Love](https://github.com/dayana82006/CampusLove): Simulador de emparejamiento con arquitectura limpia, SOLID y LINQ.
-- ⚙️ [Liga Fútbol](https://github.com/dayana82006/PelisJs): Proyecto en JS
+- ⚙️ [Gestor pelis](https://github.com/dayana82006/PelisJs): Proyecto en JS
